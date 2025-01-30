@@ -17,5 +17,4 @@ This repository contains the setup for a basic Node.js project with Git and esse
 ## Usage  
 
 Run the project using:  
-```bash
-nodemon index.js
+nodemon node.js
